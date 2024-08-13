@@ -40,6 +40,7 @@ solve real-life problems while putting the users at the heart of all iteration.
     <!-- ##### 🌏 [emmyhcoin.com](https://emmyhcoin.com)
     ##### 🌏 [languvi.com](https://languvi.com) -->
     <!-- ##### 🌏 [perzsirentals.com](https://www.perzsirentals.com) -->
+    ##### 🌏 [Digiurl url shortener](https://digiurl.vercel.app/)
     ##### 🌏 [Cinerama-insight.app/](https://cinerama-insight.netlify.app/)
     ##### 🌏 [futaforum.app](https://futaforum.vercel.app)
 
