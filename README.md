@@ -18,7 +18,7 @@
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Fakson Joshua <br/> ( LimFakson ) <br/> </h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Back+End+Engineer;Open%20Sorcerer&center=true&width=640&height=55"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Back+End+Engineer&center=true&width=640&height=55"></a>
 </p> 
 
 - 🚧 Full Stack Python Developer skilled in the design, development, integration, and
@@ -29,7 +29,6 @@ part communicating with each other through efficient queues and powerful APIs to
 solve real-life problems while putting the users at the heart of all iteration.
 - ❤️ As much as I can, I enjoy contributing to **Open Source**
 - 👯 I’m looking to collaborate more on **projects**
-- _busy doing juju 🍀_
   
 - 💬 How to reach me :
     ##### 📧 [fakeyejoshua2005@gmail.com](mailto:fakeyejoshua2005@gmail.com)  
